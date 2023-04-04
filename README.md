@@ -19,7 +19,6 @@
  
 <h4>Extras </h4>
 
-* 🙊 I love monkeys, the name I like to use on some sites is an anagram for monkey. My favorite species is the golden lion tamarin.
 * 🔑 A lot of my work is done off github, but if I want to distribute it to someone else or deploy I'll do a repo.
 * 💪 If I can learn, I want to. I'm always open to learning new languages and doing new projects.
 * 📖 Currently learning Japanese.
