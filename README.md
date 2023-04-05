@@ -3,8 +3,6 @@
 
 <p>My name is Mia, I'm a full stack developer who enjoys building APIs and integrating the back end. I got my start in high school building static sites, and since then toughed it out and learned vanilla Javascript over just jQuery.</p>
 
-<p>I have an interest in learning blockchain tech and the application of it to web development, but haven't found the chance to develop it.</p>
-
 <p>Currently looking for work in full stack, backend, front end.. anything is fine by me.</p>
 
 <p align="center">
