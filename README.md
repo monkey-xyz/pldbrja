@@ -1,4 +1,4 @@
-<h3 align="center">Mia 🐒 @kynome</h3>
+<h3 align="center">🐒</h3>
 <hr>
 
 <p>My name is Mia, I'm a full stack developer who enjoys building APIs and integrating the back end. I got my start in high school building static sites, and since then toughed it out and learned vanilla Javascript over just jQuery.</p>
